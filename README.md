@@ -1,12 +1,11 @@
-# BufferOverFlow
 
 ## Usage Guide:
 
 ### Spiking -> 
-	Edit spiking.spk with the command you want to spike
-	```
-	bash spiking.sh <ip> <port>
-	```
+Edit spiking.spk with the command you want to spike
+```
+bash spiking.sh <ip> <port>
+```
 
 ### Fuzzing ->
 	Inside python fuzzing.py 
